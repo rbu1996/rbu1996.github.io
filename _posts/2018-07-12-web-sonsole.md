@@ -1,25 +1,52 @@
 ---
 layout: post
 title: Web Console
-date: 2018-7-12 14:32:55.000000000 +09:00
+date: {}
+published: true
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+This is what I did on the fist day in Intel. Use the Integrated BMC Web Console, and install operating system.              
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## BIOS Configuration
 
-Jekyll also offers powerful support for code snippets:
+### Server Management
+Click BMC LAN Configuration
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+![4step-2.jpg]({{site.baseurl}}/_posts/4step-2.jpg)
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+### Set a proper IP address
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+![4step-3.jpg]({{site.baseurl}}/_posts/4step-3.jpg)
+
+### Set user ID and password
+User state: enable
+
+![4step-4.jpg]({{site.baseurl}}/_posts/4step-4.jpg)
+
+### F10 Save configuration
+
+![4step-6.jpg]({{site.baseurl}}/_posts/4step-6.jpg)
+
+## Remote Control
+
+### Java configuration
+
+![1step-2.jpg]({{site.baseurl}}/_posts/1step-2.jpg)
+
+### Add IP address of the server
+
+![1step-5.jpg]({{site.baseurl}}/_posts/1step-5.jpg)
+
+### Open web console and Login
+
+![2step-1.jpg]({{site.baseurl}}/_posts/2step-1.jpg)
+
+![2step-3.jpg]({{site.baseurl}}/_posts/2step-3.jpg)
+
+Now you can use the server while drinking coffee!
+
+
+
+
+
+
