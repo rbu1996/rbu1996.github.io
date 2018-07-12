@@ -5,9 +5,59 @@
     <description>Being a programer</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Jul 2018 14:22:00 +0800</pubDate>
-    <lastBuildDate>Thu, 12 Jul 2018 14:22:00 +0800</lastBuildDate>
+    <pubDate>Thu, 12 Jul 2018 15:05:12 +0800</pubDate>
+    <lastBuildDate>Thu, 12 Jul 2018 15:05:12 +0800</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
+    
+      <item>
+        <title>Web Console</title>
+        <description>&lt;p&gt;This is what I did on the fist day in Intel. Use the Integrated BMC Web Console, and install operating system.&lt;/p&gt;
+
+&lt;h2 id=&quot;bios-configuration&quot;&gt;BIOS Configuration&lt;/h2&gt;
+
+&lt;h3 id=&quot;server-management&quot;&gt;Server Management&lt;/h3&gt;
+&lt;p&gt;Click BMC LAN Configuration&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/_posts/4step-2.jpg&quot; alt=&quot;4step-2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;set-a-proper-ip-address&quot;&gt;Set a proper IP address&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/_posts/4step-3.jpg&quot; alt=&quot;4step-3.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;set-user-id-and-password&quot;&gt;Set user ID and password&lt;/h3&gt;
+&lt;p&gt;User state: enable&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/_posts/4step-4.jpg&quot; alt=&quot;4step-4.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;f10-save-configuration&quot;&gt;F10 Save configuration&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/_posts/4step-6.jpg&quot; alt=&quot;4step-6.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;remote-control&quot;&gt;Remote Control&lt;/h2&gt;
+
+&lt;h3 id=&quot;java-configuration&quot;&gt;Java configuration&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/_posts/1step-2.jpg&quot; alt=&quot;1step-2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;add-ip-address-of-the-server&quot;&gt;Add IP address of the server&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/_posts/1step-5.jpg&quot; alt=&quot;1step-5.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;open-web-console-and-login&quot;&gt;Open web console and Login&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/_posts/2step-1.jpg&quot; alt=&quot;2step-1.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/_posts/2step-3.jpg&quot; alt=&quot;2step-3.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now you can use the server while drinking coffee!&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 12 Jul 2018 14:01:32 +0800</pubDate>
+        <link>http://localhost:4000/2018/07/web-sonsole/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/07/web-sonsole/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Hello World - Vno</title>
