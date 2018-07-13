@@ -5,9 +5,65 @@
     <description>OHHHHHHH, Who lives in a pineapple under the sea?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Jul 2018 16:46:24 +0800</pubDate>
-    <lastBuildDate>Thu, 12 Jul 2018 16:46:24 +0800</lastBuildDate>
+    <pubDate>Fri, 13 Jul 2018 13:46:11 +0800</pubDate>
+    <lastBuildDate>Fri, 13 Jul 2018 13:46:11 +0800</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
+    
+      <item>
+        <title>Install Oracle Linux 7.4</title>
+        <description>Learning to install operation systme is the first step to use a server or computer. 
+
+## Installation 
+### Language
+
+![oraclelinux-1.jpg](http://localhost:4000/assets/images/oraclelinux-1.jpg)
+
+![oraclelinux-2.jpg](http://localhost:4000/assets/images/oraclelinux-2.jpg)
+
+### INSTALLATION DESTINATION
+
+![oraclelinux-3.jpg](http://localhost:4000/assets/images/oraclelinux-3.jpg)
+
+![oraclelinux-4.jpg](http://localhost:4000/assets/images/oraclelinux-4.jpg)
+
+![oraclelinux-5.jpg](http://localhost:4000/assets/images/oraclelinux-5.jpg)
+
+![oraclelinux-6.jpg](http://localhost:4000/assets/images/oraclelinux-6.jpg)
+
+### SOFTWARE SELECTION
+Depends on your purpose. For me, I only need the default installation.
+
+![oraclelinux-7.jpg](http://localhost:4000/assets/images/oraclelinux-7.jpg)
+
+![oraclelinux-8.jpg](http://localhost:4000/assets/images/oraclelinux-8.jpg)
+
+### NETWORK &amp; HOST NAME
+
+![oraclelinux-9.jpg](http://localhost:4000/assets/images/oraclelinux-9.jpg)
+
+![oraclelinux-10.jpg](http://localhost:4000/assets/images/oraclelinux-10.jpg)
+
+![oraclelinux-11.jpg](http://localhost:4000/assets/images/oraclelinux-11.jpg)
+
+![oraclelinux-12.jpg](http://localhost:4000/assets/images/oraclelinux-12.jpg)
+
+### Begin Installation 
+Set root password.
+
+![oraclelinux-14.jpg](http://localhost:4000/assets/images/oraclelinux-14.jpg)
+
+### Done!
+
+![oraclelinux-17.jpg](http://localhost:4000/assets/images/oraclelinux-17.jpg)
+
+![oraclelinux-21.jpg](http://localhost:4000/assets/images/oraclelinux-21.jpg)
+</description>
+        <pubDate>Sun, 13 May 2018 15:11:21 +0800</pubDate>
+        <link>http://localhost:4000/2018/05/oraclelinux7/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/05/oraclelinux7/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Web Console</title>

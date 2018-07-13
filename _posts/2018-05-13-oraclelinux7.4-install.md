@@ -8,29 +8,38 @@ published: true
 Learning to install operation systme is the first step to use a server or computer. 
 
 ## Installation 
+
 ### Language
 
 ![oraclelinux-1.jpg]({{ "/assets/images/oraclelinux-1.jpg" | absolute_url }})
+
 ![oraclelinux-2.jpg]({{ "/assets/images/oraclelinux-2.jpg" | absolute_url }})
 
 ### INSTALLATION DESTINATION
 
 ![oraclelinux-3.jpg]({{ "/assets/images/oraclelinux-3.jpg" | absolute_url }})
+
 ![oraclelinux-4.jpg]({{ "/assets/images/oraclelinux-4.jpg" | absolute_url }})
+
 ![oraclelinux-5.jpg]({{ "/assets/images/oraclelinux-5.jpg" | absolute_url }})
+
 ![oraclelinux-6.jpg]({{ "/assets/images/oraclelinux-6.jpg" | absolute_url }})
 
 ### SOFTWARE SELECTION
 Depends on your purpose. For me, I only need the default installation.
 
 ![oraclelinux-7.jpg]({{ "/assets/images/oraclelinux-7.jpg" | absolute_url }})
+
 ![oraclelinux-8.jpg]({{ "/assets/images/oraclelinux-8.jpg" | absolute_url }})
 
 ### NETWORK & HOST NAME
 
 ![oraclelinux-9.jpg]({{ "/assets/images/oraclelinux-9.jpg" | absolute_url }})
+
 ![oraclelinux-10.jpg]({{ "/assets/images/oraclelinux-10.jpg" | absolute_url }})
+
 ![oraclelinux-11.jpg]({{ "/assets/images/oraclelinux-11.jpg" | absolute_url }})
+
 ![oraclelinux-12.jpg]({{ "/assets/images/oraclelinux-12.jpg" | absolute_url }})
 
 ### Begin Installation 
@@ -41,4 +50,5 @@ Set root password.
 ### Done!
 
 ![oraclelinux-17.jpg]({{ "/assets/images/oraclelinux-17.jpg" | absolute_url }})
+
 ![oraclelinux-21.jpg]({{ "/assets/images/oraclelinux-21.jpg" | absolute_url }})
