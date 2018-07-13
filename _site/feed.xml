@@ -5,62 +5,63 @@
     <description>OHHHHHHH, Who lives in a pineapple under the sea?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Jul 2018 13:46:11 +0800</pubDate>
-    <lastBuildDate>Fri, 13 Jul 2018 13:46:11 +0800</lastBuildDate>
+    <pubDate>Fri, 13 Jul 2018 13:50:57 +0800</pubDate>
+    <lastBuildDate>Fri, 13 Jul 2018 13:50:57 +0800</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
         <title>Install Oracle Linux 7.4</title>
-        <description>Learning to install operation systme is the first step to use a server or computer. 
+        <description>&lt;p&gt;Learning to install operation systme is the first step to use a server or computer.&lt;/p&gt;
 
-## Installation 
-### Language
+&lt;h2 id=&quot;installation&quot;&gt;Installation&lt;/h2&gt;
 
-![oraclelinux-1.jpg](http://localhost:4000/assets/images/oraclelinux-1.jpg)
+&lt;h3 id=&quot;language&quot;&gt;Language&lt;/h3&gt;
 
-![oraclelinux-2.jpg](http://localhost:4000/assets/images/oraclelinux-2.jpg)
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/oraclelinux-1.jpg&quot; alt=&quot;oraclelinux-1.jpg&quot; /&gt;&lt;/p&gt;
 
-### INSTALLATION DESTINATION
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/oraclelinux-2.jpg&quot; alt=&quot;oraclelinux-2.jpg&quot; /&gt;&lt;/p&gt;
 
-![oraclelinux-3.jpg](http://localhost:4000/assets/images/oraclelinux-3.jpg)
+&lt;h3 id=&quot;installation-destination&quot;&gt;INSTALLATION DESTINATION&lt;/h3&gt;
 
-![oraclelinux-4.jpg](http://localhost:4000/assets/images/oraclelinux-4.jpg)
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/oraclelinux-3.jpg&quot; alt=&quot;oraclelinux-3.jpg&quot; /&gt;&lt;/p&gt;
 
-![oraclelinux-5.jpg](http://localhost:4000/assets/images/oraclelinux-5.jpg)
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/oraclelinux-4.jpg&quot; alt=&quot;oraclelinux-4.jpg&quot; /&gt;&lt;/p&gt;
 
-![oraclelinux-6.jpg](http://localhost:4000/assets/images/oraclelinux-6.jpg)
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/oraclelinux-5.jpg&quot; alt=&quot;oraclelinux-5.jpg&quot; /&gt;&lt;/p&gt;
 
-### SOFTWARE SELECTION
-Depends on your purpose. For me, I only need the default installation.
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/oraclelinux-6.jpg&quot; alt=&quot;oraclelinux-6.jpg&quot; /&gt;&lt;/p&gt;
 
-![oraclelinux-7.jpg](http://localhost:4000/assets/images/oraclelinux-7.jpg)
+&lt;h3 id=&quot;software-selection&quot;&gt;SOFTWARE SELECTION&lt;/h3&gt;
+&lt;p&gt;Depends on your purpose. For me, I only need the default installation.&lt;/p&gt;
 
-![oraclelinux-8.jpg](http://localhost:4000/assets/images/oraclelinux-8.jpg)
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/oraclelinux-7.jpg&quot; alt=&quot;oraclelinux-7.jpg&quot; /&gt;&lt;/p&gt;
 
-### NETWORK &amp; HOST NAME
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/oraclelinux-8.jpg&quot; alt=&quot;oraclelinux-8.jpg&quot; /&gt;&lt;/p&gt;
 
-![oraclelinux-9.jpg](http://localhost:4000/assets/images/oraclelinux-9.jpg)
+&lt;h3 id=&quot;network--host-name&quot;&gt;NETWORK &amp;amp; HOST NAME&lt;/h3&gt;
 
-![oraclelinux-10.jpg](http://localhost:4000/assets/images/oraclelinux-10.jpg)
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/oraclelinux-9.jpg&quot; alt=&quot;oraclelinux-9.jpg&quot; /&gt;&lt;/p&gt;
 
-![oraclelinux-11.jpg](http://localhost:4000/assets/images/oraclelinux-11.jpg)
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/oraclelinux-10.jpg&quot; alt=&quot;oraclelinux-10.jpg&quot; /&gt;&lt;/p&gt;
 
-![oraclelinux-12.jpg](http://localhost:4000/assets/images/oraclelinux-12.jpg)
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/oraclelinux-11.jpg&quot; alt=&quot;oraclelinux-11.jpg&quot; /&gt;&lt;/p&gt;
 
-### Begin Installation 
-Set root password.
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/oraclelinux-12.jpg&quot; alt=&quot;oraclelinux-12.jpg&quot; /&gt;&lt;/p&gt;
 
-![oraclelinux-14.jpg](http://localhost:4000/assets/images/oraclelinux-14.jpg)
+&lt;h3 id=&quot;begin-installation&quot;&gt;Begin Installation&lt;/h3&gt;
+&lt;p&gt;Set root password.&lt;/p&gt;
 
-### Done!
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/oraclelinux-14.jpg&quot; alt=&quot;oraclelinux-14.jpg&quot; /&gt;&lt;/p&gt;
 
-![oraclelinux-17.jpg](http://localhost:4000/assets/images/oraclelinux-17.jpg)
+&lt;h3 id=&quot;done&quot;&gt;Done!&lt;/h3&gt;
 
-![oraclelinux-21.jpg](http://localhost:4000/assets/images/oraclelinux-21.jpg)
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/oraclelinux-17.jpg&quot; alt=&quot;oraclelinux-17.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/oraclelinux-21.jpg&quot; alt=&quot;oraclelinux-21.jpg&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 13 May 2018 15:11:21 +0800</pubDate>
-        <link>http://localhost:4000/2018/05/oraclelinux7/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/05/oraclelinux7/</guid>
+        <link>http://localhost:4000/2018/05/oraclelinux7.4-install/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/05/oraclelinux7.4-install/</guid>
         
         
       </item>
