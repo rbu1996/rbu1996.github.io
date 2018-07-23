@@ -29,6 +29,34 @@ Network configure
 ![internet-2.jpg]({{ "/assets/images/internet-2.jpg" | absolute_url }})
 ![internet-3.jpg]({{ "/assets/images/internet-3.jpg" | absolute_url }})
 
+## Install drivers 
+### LSI
+[Download location](https://www.broadcom.com/products/storage/host-bus-adapters/sas-9300-8i)
+Device Manager
+![LSI-driver-1.jpg]({{ "/assets/images/LSI-driver-1.jpg" | absolute_url }})
+Properties --> Update Driver --> Search for driver software in this location
+![LSI-driver-2.jpg]({{ "/assets/images/LSI-driver-2.jpg" | absolute_url }})
+Success!
+![LSI-driver-3.jpg]({{ "/assets/images/LSI-driver-3.jpg" | absolute_url }})
+
+### Ethernet
+[Download location](https://downloadcenter.intel.com/zh-cn/download/21694/Ethernet--Windows-Server-2012-)
+Begin installation
+![ethernet-driver-1.jpg]({{ "/assets/images/ethernet-driver-1.jpg" | absolute_url }})
+Success!
+![ethernet-driver-2.jpg]({{ "/assets/images/ethernet-driver-2.jpg" | absolute_url }})
+
+### NVMe
+[Download location](https://downloadcenter.intel.com/zh-cn/download/27517?v=t)
+Begin installation
+![nvme-driver-1.jpg]({{ "/assets/images/nvme-driver-1.jpg" | absolute_url }})
+
+### Board
+[Download location](https://downloadcenter.intel.com/zh-cn/download/27957/-Windows-)
+Begin installation
+![board-driver-1.jpg]({{ "/assets/images/board-driver-1.jpg" | absolute_url }})
+
+
 ## Some problems in Installation 
 ### Windows Remote Desktop
 #### Server:
@@ -53,6 +81,29 @@ error: An authentication error has occurred. The function requested is not suppo
 ![remote-desktop-error.jpg]({{ "/assets/images/remote-desktop-error.jpg" | absolute_url }})
 Microsoft official docs: edit Credentials Delegation
 Group Policy -> Computer Configuration -> Administrative Templates -> System -> Credentials Delegation> Encrypted Oracle Remediation change to Vulnerable (Vulnerable – Client applications that use CredSSP will expose the remote servers to attacks by supporting fallback to insecure versions, and services that use CredSSP will accept unpatched clients.)
-缺个图 记得补充
 
 ### Windows cannot be installed to this disk
+Call cmd.exe
+```
+shift + f10
+```
+Input
+```
+diskpart
+```
+Enter DISKPART, show all disks.
+```
+list disk
+```
+Select a disk, and clean and format the selected disk.
+```
+select disk 0
+```
+```
+clean
+```
+Set up mbr disk partition.
+```
+convert mbr
+```
+
