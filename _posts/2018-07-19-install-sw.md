@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Install Windows Server 2012 in Intel Server
+title: SQL Server AlwaysOn - 1 (Windows Server 2012, Driver, Remote Control)
 date: 2018-07-19 13:45:34.000000000 +09:00
 published: true
 ---
@@ -32,7 +32,8 @@ Network configure
 ## Install drivers 
 ### LSI
 [Download location](https://www.broadcom.com/products/storage/host-bus-adapters/sas-9300-8i)
-Device Manager
+
+Control Panel --> System and Security --> System --> Device Manager
 ![LSI-driver-1.jpg]({{ "/assets/images/LSI-driver-1.jpg" | absolute_url }})
 Properties --> Update Driver --> Search for driver software in this location
 ![LSI-driver-2.jpg]({{ "/assets/images/LSI-driver-2.jpg" | absolute_url }})
@@ -41,6 +42,7 @@ Success!
 
 ### Ethernet
 [Download location](https://downloadcenter.intel.com/zh-cn/download/21694/Ethernet--Windows-Server-2012-)
+
 Begin installation
 ![ethernet-driver-1.jpg]({{ "/assets/images/ethernet-driver-1.jpg" | absolute_url }})
 Success!
@@ -48,11 +50,13 @@ Success!
 
 ### NVMe
 [Download location](https://downloadcenter.intel.com/zh-cn/download/27517?v=t)
+
 Begin installation
 ![nvme-driver-1.jpg]({{ "/assets/images/nvme-driver-1.jpg" | absolute_url }})
 
 ### Board
 [Download location](https://downloadcenter.intel.com/zh-cn/download/27957/-Windows-)
+
 Begin installation
 ![board-driver-1.jpg]({{ "/assets/images/board-driver-1.jpg" | absolute_url }})
 
