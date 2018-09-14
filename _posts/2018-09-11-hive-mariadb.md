@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hive Based on MariaDB
+title: Hive &  MariaDB
 date: 2018-09-11 12:47:20.000000000 +09:00
 published: true
 --- 
