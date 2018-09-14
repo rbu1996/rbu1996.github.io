@@ -1,3 +1,10 @@
+---
+layout: post
+title: Hadoop installation
+date: 2018-09-03 15:23:59.000000000 +09:00
+published: true
+--- 
+
 ## 1. Environment
 
 Host Name | Role | ip
