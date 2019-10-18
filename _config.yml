@@ -2,42 +2,24 @@
 title: Health Monitor
 subtitle: Monitor your health!
 description: Have a healthy life, start from here
-# creator: <a href="http://onev.cat">@onevcat</a>
-
-# url: "http://vno.onevcat.com"
 
 permalink: /:year/:month/:title/
 
-# Format
 highlighter: rouge
 
-# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: slate
+cover_color:
 
-# The blog button should not be removed.
 blog_button:
     title: Health Monitor
     description: Monitor your health
 
-# Navigation buttons in the front page.
 nav:
-    # - {title: Projects, description: My Projects, url: 'https://github.com/rbu1996'}
-    # - {title: Another Button, description: A button, url: 'http://example.com'}
 
-# Pagination
-gems: [jekyll-paginate]
-paginate: 10
-paginate_path: "page/:num/"
+# gems: [jekyll-paginate]
+# paginate: 10
+# paginate_path: "page/:num/"
 
-# Comment
-# comment:
-#    disqus: vno-jekyll
-    # duoshuo: 
     
 # Social
 social:
     mail: ride.bu0921@gmail.com
-# Google Analytics
-# ga:
-    # id: your_ga_id
-    # host: your_host
