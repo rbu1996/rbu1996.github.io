@@ -1,0 +1,25 @@
+# Basic
+title: Health Monitor
+subtitle: Monitor your health!
+description: Have a healthy life, start from here
+
+permalink: /:year/:month/:title/
+
+highlighter: rouge
+
+cover_color:
+
+blog_button:
+    title: Health Monitor
+    description: Monitor your health
+
+nav:
+
+# gems: [jekyll-paginate]
+# paginate: 10
+# paginate_path: "page/:num/"
+
+    
+# Social
+social:
+    mail: ride.bu0921@gmail.com
